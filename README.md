@@ -8,6 +8,13 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/FeriEXP/scrip-roblox-
 
 ---
 
+# 👨‍💻 Author
+
+* **daveeRzkyO**
+    * **Telegram:** [@govtrashit](https://t.me/ogmsw)
+
+---
+
 ## ⚠️ Disclaimer
 
 - **Gunakan pada risiko Anda sendiri.** Teleport/GodMode dapat terdeteksi oleh anti-cheat; gunakan akun alternatif bila perlu.
