@@ -10,8 +10,8 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/FeriEXP/scrip-roblox-
 
 # 👨‍💻 Author
 
-* **daveeRzkyO**
-    * **Telegram:** [@govtrashit](https://t.me/ogmsw)
+* **davee**
+    * **Telegram:** [@ogmsw](https://t.me/ogmsw)
 
 ---
 
